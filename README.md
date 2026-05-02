@@ -1,6 +1,6 @@
 # ✈️ Outlaw Air Service — Dispatch Terminal
 
-Browser-based career dispatch system for Free Flight pilots.
+A Browser-based dispatch tool that gives Free Flight purpose — missions, logbook, and pilot-driven progression (no SimConnect).
 
 👉 **Live App:**  
 https://anonymous-guy777.github.io/outlaw-air-service-dispatch/
@@ -79,13 +79,11 @@ This brings back the idea of being **Pilot in Command** — responsible for your
 
 ## 📲 Why This Exists
 
-Free Flight is great — but it lacks:
-- Structure  
-- Progression  
-- Purpose  
+Free Flight is great — but it lacks direction after a while.
 
-This tool fills that gap without adding complexity.
+No progression. No consequences. No reason to keep going.
 
+This tool adds just enough structure to make each flight matter — without turning it into a grind.
 ---
 
 ## 🛠️ Tech

@@ -2,7 +2,7 @@
 
 Browser-based dispatch tool that gives Free Flight purpose — missions, logbook, and pilot-driven progression (no SimConnect).
 
-👉 **Live App:**  
+👉 **Launch the Dispatch Terminal:**  
 https://anonymous-guy777.github.io/outlaw-air-service-dispatch/
 
 ---

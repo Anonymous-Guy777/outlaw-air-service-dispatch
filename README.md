@@ -53,6 +53,9 @@ This is an **honor-system dispatch tool**.
 
 ## 🧭 Quick Start (How to Use)
 
+*(Tip: screenshots reflect tablet landscape mode for best layout)*
+
+[steps...]
 Think of this as your **EFB career overlay — not a mod.**  
 Works alongside MSFS 2024/2020 or X-Plane using Free Flight.
 
@@ -82,6 +85,19 @@ Works alongside MSFS 2024/2020 or X-Plane using Free Flight.
 ---
 
 👉 You control how realistic or casual you want your career to be.
+
+---
+
+## 📱 Tip (iPad / Mobile)
+
+For the best experience, use **landscape mode on tablets** — the layout is optimized for a wider EFB-style view.
+
+You can also add the app to your home screen:
+
+- **iPad / iPhone (Safari):** Share → “Add to Home Screen”  
+- **Android (Chrome):** Menu → “Add to Home Screen”  
+
+This lets you run it like a dedicated EFB alongside your sim.
 
 ---
 

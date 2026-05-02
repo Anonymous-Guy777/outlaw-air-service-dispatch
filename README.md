@@ -11,15 +11,14 @@ https://anonymous-guy777.github.io/outlaw-air-service-dispatch/
 
 Outlaw Air Service is a lightweight, **EFB-style dispatch tool** that adds structure and progression to Free Flight.
 
-No mods. No installs. No SimConnect.
-
+No mods. No installs. No SimConnect.  
 Just open it on your phone or tablet and fly.
 
 ---
 
 ## 🚀 Features
 
-- 📦 Generate random contracts  
+- 📦 Generate missions (random contracts)  
 - 🧭 Create custom flights (Pilot’s Choice)  
 - 💰 Track payouts, costs, and progression  
 - ⏱️ Built around the in-sim EFB timer  
@@ -52,6 +51,21 @@ This is an **honor-system dispatch tool**.
 5. Log your results  
 
 👉 You control how realistic or casual you want your career to be.
+
+---
+
+## ✈️ The Philosophy
+
+**Everything is manual — on purpose.**
+
+There’s no auto-pass system.
+
+You are the one logging the flight:
+- Bad landing? That’s on you  
+- Weather bonus? You decide  
+- Mission failed? You record it  
+
+This brings back the idea of being **Pilot in Command** — responsible for your own logbook.
 
 ---
 
@@ -97,7 +111,7 @@ Future updates will focus on expansion, not complexity.
 
 If you enjoy using this tool, you can support the project here:
 
-👉 (Add your Ko-Fi link)
+👉 https://ko-fi.com/wacky_outlaw
 
 ---
 

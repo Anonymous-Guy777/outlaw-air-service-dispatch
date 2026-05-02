@@ -155,9 +155,9 @@ Future updates will focus on expansion, not complexity.
 
 ## 💙 Support
 
-If you enjoy using this tool, you can support the project here:
+If you enjoy using this tool and want to support future updates:
 
-👉 https://ko-fi.com/wacky_outlaw
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wacky_outlaw)
 
 ---
 

@@ -41,10 +41,7 @@ Just open it on your phone or tablet and fly.
 - MSFS 2020  
 - X-Plane 12  
 
-Works on:
-- PC  
-- iPad / Tablet  
-- Console (via browser side-screen)  
+Works on PC, tablet, or alongside console flying.  
 
 ---
 

@@ -1,6 +1,8 @@
 # ✈️ Outlaw Air Service — Dispatch Terminal
 
-Browser-based dispatch tool that gives Free Flight purpose — missions, logbook, and pilot-driven progression (no SimConnect).
+Give Free Flight a purpose.
+
+A lightweight, browser-based dispatch tool for **flight simulators** (MSFS 2024/2020, X-Plane) — with missions, logbook tracking, and pilot-driven progression.
 
 👉 **Launch the Dispatch Terminal:**  
 https://anonymous-guy777.github.io/outlaw-air-service-dispatch/
@@ -9,10 +11,10 @@ https://anonymous-guy777.github.io/outlaw-air-service-dispatch/
 
 ## 🧭 What This Is
 
-Outlaw Air Service is a lightweight, **EFB-style dispatch tool** that adds structure and progression to Free Flight.
+Outlaw Air Service is a lightweight, **EFB-style dispatch tool for flight sim Free Flight** that adds structure and progression.
 
 No mods. No installs. No SimConnect.  
-Just open it on your phone or tablet and fly.
+Just open it on your phone or tablet and fly alongside your sim..
 
 ---
 

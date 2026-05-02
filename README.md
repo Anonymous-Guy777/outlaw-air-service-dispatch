@@ -52,11 +52,37 @@ Works on:
 
 This is an **honor-system dispatch tool**.
 
-1. Generate or create a flight  
-2. Load it in the sim  
-3. Use your in-sim EFB timer  
-4. Complete the flight  
-5. Log your results  
+---
+
+## 🧭 Quick Start (How to Use)
+
+Think of this as your **EFB career overlay — not a mod.**  
+Works alongside MSFS 2024/2020 or X-Plane using Free Flight.
+
+![Quick Start Guide](images/quick-start.png)
+
+1. **Generate a Contract**  
+   Use "Quick Contract" or "5-Job Board" to pick a mission  
+
+2. **Review Dispatch**  
+   Check route, distance, timer, and estimated payout  
+
+3. **Select Aircraft**  
+   Pick from your fleet (highlighted row = active aircraft)  
+
+4. **Set EFB Timer**  
+   In-sim, set the timer shown in the Dispatch Card before takeoff  
+
+5. **Fly the Mission**  
+   Use Free Flight — follow the route and complete the objective  
+
+6. **Apply Results**  
+   Select bonuses/penalties honestly (pilot-driven system)  
+
+7. **Complete Contract**  
+   Log payout, costs, maintenance, and progress your company  
+
+---
 
 👉 You control how realistic or casual you want your career to be.
 

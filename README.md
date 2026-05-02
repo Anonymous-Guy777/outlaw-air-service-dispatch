@@ -121,7 +121,7 @@ No progression. No consequences. No reason to keep going.
 
 ## 🧪 Status
 
-**v0.6.5 — Final Beta (Release Ready)**  
+**v0.6.6 — Final Beta (Release Ready)**  
 
 Core system is stable.  
 Future updates will focus on expansion, not complexity.

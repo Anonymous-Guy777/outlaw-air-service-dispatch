@@ -23,7 +23,15 @@ Just open it on your phone or tablet and fly.
 - 💰 Track payouts, costs, and progression  
 - ⏱️ Built around the in-sim EFB timer  
 - 📱 Mobile + tablet optimized (landscape preferred)  
-- 🎮 Console-friendly (PS5 / Xbox)  
+- 🎮 Console-friendly (PS5 / Xbox)
+
+- ---
+
+## 📸 Screenshots
+
+![Start Contract](images/start-contract.png)
+![Bonuses & Penalties](images/ledger.png)
+![Flight Log](images/flight-log.png)
 
 ---
 

@@ -51,6 +51,8 @@ Works on PC, tablet, or alongside console flying.
 
 This is an **honor-system dispatch tool**.
 
+Everything is manual — on purpose. You generate the flight, fly it, and log the results yourself. Run it strictly with full penalties and bonuses, or keep it casual as a simple mission generator and logbook. Your rules.
+
 ---
 
 ## 🧭 Quick Start (How to Use)

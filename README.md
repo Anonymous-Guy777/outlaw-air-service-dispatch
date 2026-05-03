@@ -11,9 +11,9 @@ https://anonymous-guy777.github.io/outlaw-air-service-dispatch/
 
 ## 🧭 What This Is
 
-Outlaw Air Service is a lightweight, **EFB-style dispatch tool for flight sim Free Flight** that adds structure and progression.
+Outlaw Air Service is a lightweight, **EFB-style dispatch tool for Free Flight** that adds structure and progression.
 
-No mods. No installs. No SimConnect.  
+No mods. No installs. No SimConnect. No AI.  
 Just open it on your phone or tablet and run it alongside your flight simulator.
 
 ---
@@ -24,10 +24,25 @@ Just open it on your phone or tablet and run it alongside your flight simulator.
 - 🧭 Create custom flights (Pilot’s Choice)  
 - 💰 Track payouts, costs, and progression  
 - ⏱️ Built around the in-sim EFB timer  
+- 💾 Manual **Backup / Restore Save system**  
 - 📱 Mobile + tablet optimized (landscape preferred)  
 - 🎮 Console-friendly (PS5 / Xbox)
 
-- ---
+---
+
+## 💾 Save System (Important)
+
+Your career saves locally in your browser.
+
+You can back it up anytime using the built-in **Backup / Restore Save** feature:
+
+- Tap **Backup Save** to generate your save code  
+- Copy it to Notes, email, or a text file  
+- Paste it back in and tap **Restore Save** to continue later  
+
+⚠️ Clearing browser data, switching devices, or updating browsers can erase local saves unless you back them up.
+
+---
 
 ## 📸 Screenshots
 
@@ -43,7 +58,7 @@ Just open it on your phone or tablet and run it alongside your flight simulator.
 - MSFS 2020  
 - X-Plane 12  
 
-Works on PC, tablet, or alongside console flying.  
+Works on PC, tablet, or alongside console flying.
 
 ---
 
@@ -51,55 +66,42 @@ Works on PC, tablet, or alongside console flying.
 
 This is an **honor-system dispatch tool**.
 
-Everything is manual — on purpose. You generate the flight, fly it, and log the results yourself. Run it strictly with full penalties and bonuses, or keep it casual as a simple mission generator and logbook. Your rules.
+Everything is manual — on purpose. You generate the flight, fly it, and log the results yourself.
+
+Run it strictly with full penalties and bonuses, or keep it casual as a mission generator and logbook.
+
+Your rules.
 
 ---
 
-## 🧭 Quick Start (How to Use)
+## 🧭 Quick Start
 
-*(Tip: screenshots reflect tablet landscape mode for best layout)*
-
-[steps...]
-Think of this as your **EFB career overlay — not a mod.**  
-Works alongside MSFS 2024/2020 or X-Plane using Free Flight.
+Think of this as your **EFB career overlay — not a mod.**
 
 ![Quick Start Guide](images/quick-start.png)
 
 1. **Generate a Contract**  
-   Use "Quick Contract" or "5-Job Board" to pick a mission  
-
-2. **Review Dispatch**  
-   Check route, distance, timer, and estimated payout  
-
+2. **Review Dispatch** (route, distance, payout)  
 3. **Select Aircraft**  
-   Pick from your fleet (highlighted row = active aircraft)  
-
-4. **Set EFB Timer**  
-   In-sim, set the timer shown in the Dispatch Card before takeoff  
-
+4. **Set EFB Timer in-sim**  
 5. **Fly the Mission**  
-   Use Free Flight — follow the route and complete the objective  
-
-6. **Apply Results**  
-   Select bonuses/penalties honestly (pilot-driven system)  
-
-7. **Complete Contract**  
-   Log payout, costs, maintenance, and progress of your company  
-
-## 📱 Tip (iPad / Mobile)
-
-For the best experience, use **landscape mode on tablets** — the layout is optimized for a wider EFB-style view.
-
-You can also add the app to your home screen:
-
-- **iPad / iPhone (Safari):** Share → “Add to Home Screen”  
-- **Android (Chrome):** Menu → “Add to Home Screen”  
-
-This lets you run it like a dedicated EFB alongside your sim.
+6. **Apply Results (honestly)**  
+7. **Complete Contract**
 
 ---
 
-## ✈️ The Philosophy
+## 📱 Tip (iPad / Mobile)
+
+Use **landscape mode** for the best experience.
+
+You can also install it like an app:
+
+- **iPad / iPhone (Safari):** Share → Add to Home Screen  
+- **Android (Chrome):** Menu → Add to Home Screen  
+
+---
+
+## ✈️ Philosophy
 
 **Everything is manual — on purpose.**
 
@@ -110,19 +112,16 @@ You are the one logging the flight:
 - Weather bonus? You decide  
 - Mission failed? You record it  
 
-This brings back the idea of being **Pilot in Command** — responsible for your own logbook.
+You are the **Pilot in Command**.
 
 ---
 
 ## 📲 Why This Exists
 
-Free Flight is great — but it lacks direction after a while.
+Free Flight is great — but it can feel directionless after a while.
 
-This tool adds just enough structure to make each flight matter — without turning it into a grind.
-
-Free Flight is great — but it’s easy to lose direction after a while.
-
-This tool adds just enough structure to make each flight matter — without turning it into a grind.
+This tool adds just enough structure to make each flight matter  
+without turning it into a grind.
 
 ---
 
@@ -140,7 +139,7 @@ This tool adds just enough structure to make each flight matter — without turn
 **v0.6.6 — Final Beta (Release Ready)**  
 
 Core system is stable.  
-Future updates will focus on expansion, not complexity.
+Recent updates include improved save reliability and restore support.
 
 ---
 
@@ -157,12 +156,12 @@ Future updates will focus on expansion, not complexity.
 
 If you enjoy using this tool and want to support future updates:
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wacky_outlaw)
+https://ko-fi.com/wacky_outlaw
 
 ---
 
 ## ⚠️ Disclaimer
 
-This is not affiliated with Microsoft Flight Simulator or Laminar Research.
+Not affiliated with Microsoft Flight Simulator or Laminar Research.
 
 This is a personal project built for the community.

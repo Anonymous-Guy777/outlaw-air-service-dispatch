@@ -157,7 +157,9 @@ Recent updates include improved save reliability and restore support.
 
 If you enjoy using this tool and want to support future updates:
 
-https://ko-fi.com/wacky_outlaw
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wacky_outlaw)
+
+Or visit: https://ko-fi.com/wacky_outlaw
 
 ---
 

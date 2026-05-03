@@ -84,13 +84,7 @@ Works alongside MSFS 2024/2020 or X-Plane using Free Flight.
    Select bonuses/penalties honestly (pilot-driven system)  
 
 7. **Complete Contract**  
-   Log payout, costs, maintenance, and progress your company  
-
----
-
-👉 You control how realistic or casual you want your career to be.
-
----
+   Log payout, costs, maintenance, and progress of your company  
 
 ## 📱 Tip (iPad / Mobile)
 
@@ -126,7 +120,9 @@ Free Flight is great — but it lacks direction after a while.
 
 This tool adds just enough structure to make each flight matter — without turning it into a grind.
 
-No progression. No consequences. No reason to keep going.
+Free Flight is great — but it’s easy to lose direction after a while.
+
+This tool adds just enough structure to make each flight matter — without turning it into a grind.
 
 ---
 

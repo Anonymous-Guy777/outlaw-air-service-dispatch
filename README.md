@@ -14,7 +14,8 @@ https://anonymous-guy777.github.io/outlaw-air-service-dispatch/
 Outlaw Air Service is a lightweight, **EFB-style dispatch tool for Free Flight** that adds structure and progression.
 
 No mods. No installs. No SimConnect. No AI.  
-Just open it on your phone or tablet and run it alongside your flight simulator.
+Saves locally — you can back up your career anytime with a simple copy/paste.  
+Just open it on your phone or tablet and run it alongside your flight simulator.  
 
 ---
 

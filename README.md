@@ -1,5 +1,7 @@
 # ✈️ Outlaw Air Service — Dispatch Terminal (MSFS 2020 / 2024)
 
+![Outlaw Air Service Banner](https://anonymous-guy777.github.io/outlaw-air-service-dispatch/banner.png)
+
 Give Free Flight a purpose.
 
 A lightweight, browser-based dispatch tool for flight simulators — built around quick contracts, pilot-driven results, and a simple career loop.
@@ -8,27 +10,28 @@ https://anonymous-guy777.github.io/outlaw-air-service-dispatch/
 
 ---
 
-No mods. No SimConnect. No AI. No setup.  
+**No mods. No SimConnect. No AI. No setup.**  
 Just open it → generate a contract → fly → log the result.
 
 ---
 
 ## 📸 Screenshots
 
-Banner  
-https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/banner.png
+### Main / Generate Contract
 
-Screen 1 — Main / Generate Contract  
-https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/screen_01_main_v1.png
+![Main Screen](https://anonymous-guy777.github.io/outlaw-air-service-dispatch/screen_01_main_v1.png)
 
-Screen 2 — Dispatch Card  
-https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/screen_02_dispatch_v1.png
+### Dispatch Card
 
-Screen 3 — Contract / Honor System  
-https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/screen_03_contract_v1.png
+![Dispatch Card](https://anonymous-guy777.github.io/outlaw-air-service-dispatch/screen_02_dispatch_v1.png)
 
-Screen 4 — Dashboard / Career Tracking  
-https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/screen_04_dashboard_v1.png
+### Contract / Honor System
+
+![Contract Screen](https://anonymous-guy777.github.io/outlaw-air-service-dispatch/screen_03_contract_v1.png)
+
+### Dashboard / Career Tracking
+
+![Dashboard](https://anonymous-guy777.github.io/outlaw-air-service-dispatch/screen_04_dashboard_v1.png)
 
 ---
 
@@ -36,39 +39,44 @@ https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/screen
 
 ### 👉 1. Generate a contract
 
-https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/screen_01_main_v1.png
+Tap → **Start here → Generate your contract**
 
-Tap → Start here → Generate your contract
+- Quick Contract
+- Browse Jobs / Pilot’s Choice
 
 ---
 
 ### 🧾 2. Get your mission
 
-https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/screen_02_dispatch_v1.png
+Your **EFB Dispatch Card** shows the route, aircraft, payout, mission type, distance, and EFB timer target.
 
 ---
 
 ### ⚠️ 3. Fly the mission
 
-https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/screen_03_contract_v1.png
+Fly the route in your sim and log the result yourself.
 
 ---
 
 ### 💰 4. Complete the contract
 
-https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/screen_03_contract_v1.png
+Apply bonuses / penalties, confirm payout, and update your stats.
 
 ---
 
 ### 📊 5. Track your career
 
-https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/screen_04_dashboard_v1.png
+Track cash, debt, rank, tier, flight log, and company stats.
 
 ---
 
 ## 🧭 What This Is
 
-Outlaw Air Service is a lightweight, EFB-style dispatch tool for Free Flight.
+Outlaw Air Service is a lightweight, EFB-style dispatch tool for Free Flight that adds structure without turning it into a grind.
+
+No mods. No installs. No external connections.
+
+Run it on your phone or tablet alongside your simulator.
 
 ---
 
@@ -76,14 +84,18 @@ Outlaw Air Service is a lightweight, EFB-style dispatch tool for Free Flight.
 
 - Generate missions
 - Custom flights
+- Payout + cost tracking
+- In-sim EFB timing
 - Career progression
+- Backup / Restore
+- Mobile + tablet optimized
 - Console-friendly
 
 ---
 
 ## 🧪 Status
 
-v0.6.6 — Final Beta
+**v0.6.6 — Final Beta**
 
 ---
 
@@ -95,4 +107,4 @@ https://ko-fi.com/wacky_outlaw
 
 ## ⚠️ Disclaimer
 
-Not affiliated with Microsoft Flight Simulator or Laminar Research
+Not affiliated with Microsoft Flight Simulator or Laminar Research.

@@ -1,4 +1,4 @@
-![Outlaw Air Service Banner](images/banner.png)
+Outlaw Air Service Banner
 
 # ✈️ Outlaw Air Service — Dispatch Terminal (MSFS 2020 / 2024)
 
@@ -14,7 +14,7 @@ A lightweight, browser-based dispatch tool for flight simulators — built aroun
 
 ---
 
-**No mods. No SimConnect. No AI. No setup.**  
+No mods. No SimConnect. No AI. No setup.  
 Just open it → generate a contract → fly → log the result.
 
 ---
@@ -23,9 +23,9 @@ Just open it → generate a contract → fly → log the result.
 
 ### 👉 1. Generate a contract
 
-![Main Screen](images/screen_01_main_v1.png)
+Main Screen
 
-Tap → **Start here → Generate your contract**
+Tap → Start here → Generate your contract
 
 - Quick Contract (fast, randomized)  
 - Browse Jobs / Pilot’s Choice (more control)  
@@ -34,21 +34,21 @@ Tap → **Start here → Generate your contract**
 
 ### 🧾 2. Get your mission
 
-![Dispatch Card](images/screen_02_dispatch_v1.png)
+Dispatch Card
 
-Your **EFB Dispatch Card** is your job sheet:
+Your EFB Dispatch Card is your job sheet:
 
 - Route (departure → arrival)  
 - Aircraft (or use your own)  
 - Distance + mission type  
 - Estimated payout  
-- **EFB timer target** (set this in-sim before takeoff)
+- EFB timer target (set this in-sim before takeoff)
 
 ---
 
 ### ⚠️ 3. Fly the mission (Honor System)
 
-![Contract Screen](images/screen_03_contract_v1.png)
+Contract Screen
 
 Fly the route in your sim and apply results yourself.
 
@@ -64,22 +64,22 @@ This is intentional — you are the Pilot in Command.
 
 ### 💰 4. Complete the contract
 
-![Contract Screen](images/screen_03_contract_v1.png)
+Contract Screen
 
 After landing:
 
-- Tap **Complete Contract**  
+- Tap Complete Contract  
 - Apply bonuses / penalties  
 - Confirm payout  
 - Stats update automatically  
 
-This is the core loop — **fly → log → get paid → progress**
+This is the core loop — fly → log → get paid → progress
 
 ---
 
 ### 📊 5. Track your career
 
-![Dashboard](images/screen_04_dashboard_v1.png)
+Dashboard
 
 Everything is tracked:
 
@@ -96,7 +96,7 @@ Also includes:
 
 ## 🧭 What This Is
 
-Outlaw Air Service is a lightweight, **EFB-style dispatch tool for Free Flight** that adds structure without turning it into a grind.
+Outlaw Air Service is a lightweight, EFB-style dispatch tool for Free Flight that adds structure without turning it into a grind.
 
 No mods. No installs. No external connections.
 
@@ -106,29 +106,29 @@ Run it on your phone or tablet alongside your simulator.
 
 ## 🚀 Features
 
-- 📦 Generate missions (random contracts)  
-- 🧭 Custom flights (Pilot’s Choice)  
-- 💰 Payout + cost tracking  
-- ⏱️ Built around in-sim EFB timing  
-- 📊 Career progression system  
-- 💾 Manual Backup / Restore  
-- 📱 Mobile + tablet optimized  
-- 🎮 Console-friendly (PS5 / Xbox)
+- Generate missions (random contracts)  
+- Custom flights (Pilot’s Choice)  
+- Payout + cost tracking  
+- Built around in-sim EFB timing  
+- Career progression system  
+- Manual Backup / Restore  
+- Mobile + tablet optimized  
+- Console-friendly (PS5 / Xbox)
 
 ---
 
 ## 🧪 Status
 
-**v0.6.6 — Final Beta (Release Ready)**
+v0.6.6 — Final Beta (Release Ready)
 
 ---
 
 ## 💙 Support
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wacky_outlaw)
+https://ko-fi.com/wacky_outlaw
 
 ---
 
 ## ⚠️ Disclaimer
 
-Not affiliated with Microsoft Flight Simulator or Laminar Research.
+Not affiliated with Microsoft Flight Simulator or Laminar Researc

@@ -14,8 +14,7 @@ A lightweight, browser-based dispatch tool for flight simulators — built aroun
 
 ---
 
-**No mods. No SimConnect. No AI. No setup.**  
-Just open it → generate a contract → fly → log the result.
+**No mods. No SimConnect. No AI. No setup.** Just open it → generate a contract → fly → log the result.
 
 ---
 
@@ -23,7 +22,7 @@ Just open it → generate a contract → fly → log the result.
 
 ### 👉 1. Generate a contract
 
-![Main Screen](./screen_01_main_v1.png)
+![Main Screen](./screen_01_main_v1.PNG)
 
 Tap → **Start here → Generate your contract**
 
@@ -34,7 +33,7 @@ Tap → **Start here → Generate your contract**
 
 ### 🧾 2. Get your mission
 
-![Dispatch Card](./screen_02_dispatch_v1.png)
+![Dispatch Card](./screen_02_dispatch_v1.PNG)
 
 Your **EFB Dispatch Card** is your job sheet:
 
@@ -48,7 +47,7 @@ Your **EFB Dispatch Card** is your job sheet:
 
 ### ⚠️ 3. Fly the mission (Honor System)
 
-![Contract Screen](./screen_03_contract_v1.png)
+![Contract Screen](./screen_03_contract_v1.PNG)
 
 Fly the route in your sim and apply results yourself.
 
@@ -64,12 +63,11 @@ This is intentional — you are the Pilot in Command.
 
 ### 💰 4. Complete the contract
 
-![Contract Screen](./screen_03_contract_v1.png)
+![Contract Screen](./screen_03_contract_v1.PNG)
 
 After landing:
 
-- Tap **Complete Contract**  
-- Apply bonuses / penalties  
+- Tap **Complete Contract** - Apply bonuses / penalties  
 - Confirm payout  
 - Stats update automatically  
 
@@ -79,7 +77,7 @@ This is the core loop — **fly → log → get paid → progress**
 
 ### 📊 5. Track your career
 
-![Dashboard](./screen_04_dashboard_v1.png)
+![Dashboard](./screen_04_dashboard_v1.PNG)
 
 Everything is tracked:
 

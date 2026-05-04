@@ -1,11 +1,11 @@
 ### 👉 1. Generate a contract
-![Main Screen](https://raw.githubusercontent.com/Anonymous-Guy777/outlaw-air-service-dispatch/main/screen_01_main_v1.PNG)
+![Main Screen](./screen_01_main_v1.png?v=1.0)
 
 ### 🧾 2. Get your mission
-![Dispatch Card](https://raw.githubusercontent.com/Anonymous-Guy777/outlaw-air-service-dispatch/main/screen_02_dispatch_v1.PNG)
+![Dispatch Card](./screen_02_dispatch_v1.png?v=1.0)
 
 ### ⚠️ 3. Fly the mission (Honor System)
-![Contract Screen](https://raw.githubusercontent.com/Anonymous-Guy777/outlaw-air-service-dispatch/main/screen_03_contract_v1.PNG)
+![Contract Screen](./screen_03_contract_v1.png?v=1.0)
 
 ### 📊 5. Track your career
-![Dashboard](https://raw.githubusercontent.com/Anonymous-Guy777/outlaw-air-service-dispatch/main/screen_04_dashboard_v1.PNG)
+![Dashboard](./screen_04_dashboard_v1.png?v=1.0)

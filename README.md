@@ -23,7 +23,7 @@ Just open it → generate a contract → fly → log the result.
 
 ### 👉 1. Generate a contract
 
-![Main Screen](images/screen_01_main_v1.png)
+![Main Screen](https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/images/screen_01_main_v1.png?raw=true)
 
 Tap → **Start here → Generate your contract**
 
@@ -34,7 +34,7 @@ Tap → **Start here → Generate your contract**
 
 ### 🧾 2. Get your mission
 
-![Dispatch Card](images/screen_02_dispatch_v1.png)
+![Dispatch Card](https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/images/screen_02_dispatch_v1.png?raw=true)
 
 Your **EFB Dispatch Card** is your job sheet:
 
@@ -48,7 +48,7 @@ Your **EFB Dispatch Card** is your job sheet:
 
 ### ⚠️ 3. Fly the mission (Honor System)
 
-![Contract Screen](images/screen_03_contract_v1.png)
+![Contract Screen](https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/images/screen_03_contract_v1.png?raw=true)
 
 Fly the route in your sim and apply results yourself.
 
@@ -64,7 +64,7 @@ This is intentional — you are the Pilot in Command.
 
 ### 💰 4. Complete the contract
 
-![Contract Screen](images/screen_03_contract_v1.png)
+![Contract Screen](https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/images/screen_03_contract_v1.png?raw=true)
 
 After landing:
 
@@ -79,7 +79,7 @@ This is the core loop — **fly → log → get paid → progress**
 
 ### 📊 5. Track your career
 
-![Dashboard](images/screen_04_dashboard_v1.png)
+![Dashboard](https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/images/screen_04_dashboard_v1.png?raw=true)
 
 Everything is tracked:
 

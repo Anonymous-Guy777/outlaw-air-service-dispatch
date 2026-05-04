@@ -23,7 +23,7 @@ Just open it → generate a contract → fly → log the result.
 
 ### 👉 1. Generate a contract
 
-![Main Screen](https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/images/screen_01_main_v1.png?raw=true)
+![Main Screen](https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/images/screen_01_main_v1.jpg?raw=true)
 
 Tap → **Start here → Generate your contract**
 

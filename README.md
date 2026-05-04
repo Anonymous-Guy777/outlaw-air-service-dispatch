@@ -23,7 +23,7 @@ Just open it → generate a contract → fly → log the result.
 
 ### 👉 1. Generate a contract
 
-![Main Screen](https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/images/screen_01_main_v1.png?raw=true)
+![Main Screen](images/screen_01_main_v1.png)
 
 Tap → **Start here → Generate your contract**
 
@@ -34,7 +34,7 @@ Tap → **Start here → Generate your contract**
 
 ### 🧾 2. Get your mission
 
-![Dispatch Card](https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/images/screen_02_dispatch_v1.png?raw=true)
+![Dispatch Card](images/screen_02_dispatch_v1.png)
 
 Your **EFB Dispatch Card** is your job sheet:
 
@@ -48,15 +48,15 @@ Your **EFB Dispatch Card** is your job sheet:
 
 ### ⚠️ 3. Fly the mission (Honor System)
 
-![Contract Screen](https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/images/screen_03_contract_v1.png?raw=true)
+![Contract Screen](images/screen_03_contract_v1.png)
 
-Fly the route in your sim and apply the results yourself.
+Fly the route in your sim and apply results yourself.
 
 Examples:
 - Late arrival  
 - Hard landing  
 - Wrong runway  
-- Weather/night bonuses  
+- Weather / night bonuses  
 
 This is intentional — you are the Pilot in Command.
 
@@ -64,12 +64,12 @@ This is intentional — you are the Pilot in Command.
 
 ### 💰 4. Complete the contract
 
-![Contract Screen](https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/images/screen_03_contract_v1.png?raw=true)
+![Contract Screen](images/screen_03_contract_v1.png)
 
 After landing:
 
 - Tap **Complete Contract**  
-- Apply bonuses/penalties  
+- Apply bonuses / penalties  
 - Confirm payout  
 - Stats update automatically  
 
@@ -79,7 +79,7 @@ This is the core loop — **fly → log → get paid → progress**
 
 ### 📊 5. Track your career
 
-![Dashboard](https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/images/screen_04_dashboard_v1.png?raw=true)
+![Dashboard](images/screen_04_dashboard_v1.png)
 
 Everything is tracked:
 
@@ -117,97 +117,9 @@ Run it on your phone or tablet alongside your simulator.
 
 ---
 
-## 💾 Save System (Important)
-
-Your career saves locally in your browser.
-
-- Tap **Backup Save** → copy your save code  
-- Store it anywhere (Notes, email, text file)  
-- Paste it back → tap **Restore Save**
-
-⚠️ Clearing browser data or switching devices will erase saves unless backed up.
-
----
-
-## 🛫 Supported Platforms
-
-- MSFS 2024  
-- MSFS 2020  
-- X-Plane 12  
-
-Works on PC, tablet, or alongside console flying.
-
----
-
-## 🧠 Design Philosophy
-
-Built around a **KISS approach (Keep It Simple & Straightforward)**
-
-- No automation  
-- No background tracking  
-- No external dependencies  
-
-Everything is manual — on purpose.
-
-You generate the flight.  
-You fly it.  
-You log the result.
-
----
-
-## 🧭 Quick Start
-
-1. Generate a Contract  
-2. Review Dispatch  
-3. Select Aircraft  
-4. Set EFB Timer  
-5. Fly  
-6. Apply Results  
-7. Complete Contract  
-
----
-
-## 📱 Tip (iPad / Mobile)
-
-Use **landscape mode** for the best experience.
-
-Install like an app:
-- Safari → Add to Home Screen  
-- Chrome → Add to Home Screen  
-
----
-
-## 📲 Why This Exists
-
-Free Flight is great — but it can feel directionless.
-
-This adds just enough structure to make each flight matter  
-without turning it into a full career grind.
-
----
-
-## 🛠️ Tech
-
-- Single-file HTML app  
-- No dependencies  
-- Works offline  
-- Hosted on GitHub Pages  
-
----
-
 ## 🧪 Status
 
 **v0.6.6 — Final Beta (Release Ready)**
-
----
-
-## 🔧 Next Update (v0.6.7)
-
-- Full aircraft database  
-- Airport database + custom ICAO  
-- Improved “Complete Flight” flow  
-- Expanded mission depth  
-- Separate aircraft/airport files  
 
 ---
 

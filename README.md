@@ -4,11 +4,7 @@ Give Free Flight a purpose.
 
 A lightweight, browser-based dispatch tool for flight simulators — built around quick contracts, pilot-driven results, and a simple career loop.
 
-<p align="center">
-  <a href="https://anonymous-guy777.github.io/outlaw-air-service-dispatch/">
-    <img src="https://img.shields.io/badge/🚀_Live_Demo-Launch_App-blue?style=for-the-badge" />
-  </a>
-</p>
+https://anonymous-guy777.github.io/outlaw-air-service-dispatch/
 
 ---
 
@@ -19,11 +15,20 @@ Just open it → generate a contract → fly → log the result.
 
 ## 📸 Screenshots
 
-- 🔗 Banner
-- 🔗 Screen 1 — Main / Generate Contract
-- 🔗 Screen 2 — Dispatch Card
-- 🔗 Screen 3 — Contract / Honor System
-- 🔗 Screen 4 — Dashboard / Career Tracking
+Banner  
+https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/banner.png
+
+Screen 1 — Main / Generate Contract  
+https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/screen_01_main_v1.png
+
+Screen 2 — Dispatch Card  
+https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/screen_02_dispatch_v1.png
+
+Screen 3 — Contract / Honor System  
+https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/screen_03_contract_v1.png
+
+Screen 4 — Dashboard / Career Tracking  
+https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/screen_04_dashboard_v1.png
 
 ---
 
@@ -31,103 +36,54 @@ Just open it → generate a contract → fly → log the result.
 
 ### 👉 1. Generate a contract
 
-🔗 View Screenshot
+https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/screen_01_main_v1.png
 
 Tap → Start here → Generate your contract
-
-- Quick Contract (fast, randomized)  
-- Browse Jobs / Pilot’s Choice (more control)  
 
 ---
 
 ### 🧾 2. Get your mission
 
-🔗 View Screenshot
-
-Your EFB Dispatch Card is your job sheet:
-
-- Route (departure → arrival)  
-- Aircraft (or use your own)  
-- Distance + mission type  
-- Estimated payout  
-- EFB timer target (set this in-sim before takeoff)
+https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/screen_02_dispatch_v1.png
 
 ---
 
-### ⚠️ 3. Fly the mission (Honor System)
+### ⚠️ 3. Fly the mission
 
-🔗 View Screenshot
-
-Fly the route in your sim and apply results yourself.
-
-Examples:
-- Late arrival  
-- Hard landing  
-- Wrong runway  
-- Weather / night bonuses  
-
-This is intentional — you are the Pilot in Command.
+https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/screen_03_contract_v1.png
 
 ---
 
 ### 💰 4. Complete the contract
 
-🔗 View Screenshot
-
-After landing:
-
-- Tap Complete Contract  
-- Apply bonuses / penalties  
-- Confirm payout  
-- Stats update automatically  
-
-This is the core loop — fly → log → get paid → progress
+https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/screen_03_contract_v1.png
 
 ---
 
 ### 📊 5. Track your career
 
-🔗 View Screenshot
-
-Everything is tracked:
-
-- Cash / Debt  
-- Rank / Tier  
-- Flight log  
-- Company stats  
-
-Also includes:
-- Loan system  
-- Backup / Restore save  
+https://github.com/Anonymous-Guy777/outlaw-air-service-dispatch/blob/main/screen_04_dashboard_v1.png
 
 ---
 
 ## 🧭 What This Is
 
-Outlaw Air Service is a lightweight, EFB-style dispatch tool for Free Flight that adds structure without turning it into a grind.
-
-No mods. No installs. No external connections.
-
-Run it on your phone or tablet alongside your simulator.
+Outlaw Air Service is a lightweight, EFB-style dispatch tool for Free Flight.
 
 ---
 
 ## 🚀 Features
 
-- Generate missions (random contracts)  
-- Custom flights (Pilot’s Choice)  
-- Payout + cost tracking  
-- Built around in-sim EFB timing  
-- Career progression system  
-- Manual Backup / Restore  
-- Mobile + tablet optimized  
-- Console-friendly (PS5 / Xbox)
+- Generate missions
+- Custom flights
+- Career progression
+- Console-friendly
 
 ---
 
 ## 🧪 Status
 
-v0.6.6 — Final Beta (Release Ready)
+v0.6.6 — Final Beta
 
 ---
 
@@ -139,4 +95,4 @@ https://ko-fi.com/wacky_outlaw
 
 ## ⚠️ Disclaimer
 
-Not affiliated with Microsoft Flight Simulator or Laminar Researc
+Not affiliated with Microsoft Flight Simulator or Laminar Research

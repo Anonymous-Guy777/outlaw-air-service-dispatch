@@ -1,5 +1,3 @@
-Outlaw Air Service Banner
-
 # ✈️ Outlaw Air Service — Dispatch Terminal (MSFS 2020 / 2024)
 
 Give Free Flight a purpose.
@@ -19,11 +17,21 @@ Just open it → generate a contract → fly → log the result.
 
 ---
 
+## 📸 Screenshots
+
+- 🔗 Banner
+- 🔗 Screen 1 — Main / Generate Contract
+- 🔗 Screen 2 — Dispatch Card
+- 🔗 Screen 3 — Contract / Honor System
+- 🔗 Screen 4 — Dashboard / Career Tracking
+
+---
+
 ## 📸 How it works
 
 ### 👉 1. Generate a contract
 
-Main Screen
+🔗 View Screenshot
 
 Tap → Start here → Generate your contract
 
@@ -34,7 +42,7 @@ Tap → Start here → Generate your contract
 
 ### 🧾 2. Get your mission
 
-Dispatch Card
+🔗 View Screenshot
 
 Your EFB Dispatch Card is your job sheet:
 
@@ -48,7 +56,7 @@ Your EFB Dispatch Card is your job sheet:
 
 ### ⚠️ 3. Fly the mission (Honor System)
 
-Contract Screen
+🔗 View Screenshot
 
 Fly the route in your sim and apply results yourself.
 
@@ -64,7 +72,7 @@ This is intentional — you are the Pilot in Command.
 
 ### 💰 4. Complete the contract
 
-Contract Screen
+🔗 View Screenshot
 
 After landing:
 
@@ -79,7 +87,7 @@ This is the core loop — fly → log → get paid → progress
 
 ### 📊 5. Track your career
 
-Dashboard
+🔗 View Screenshot
 
 Everything is tracked:
 

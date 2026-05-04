@@ -1,4 +1,4 @@
-![Outlaw Air Service Banner](./BCA068D3-5E81-4B...png?v=1.3)
+![Outlaw Air Service Banner](./banner.png?v=1.3)
 
 # ✈️ Outlaw Air Service — Dispatch Terminal (MSFS 2020 / 2024)
 

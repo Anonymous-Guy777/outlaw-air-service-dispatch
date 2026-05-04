@@ -2,9 +2,16 @@
 
 # ✈️ Outlaw Air Service — Dispatch Terminal (MSFS 2020 / 2024 • X-Plane • Console & PC)
 
-Give Free Flight a purpose.
+Free Flight is great… until it isn’t.
 
-A lightweight, browser-based dispatch tool for flight simulators — built around quick contracts, pilot-driven results, and a simple career loop.
+At some point it just turns into:
+spawn → fly → land → repeat
+
+No purpose. No pressure. No reason to care.
+
+So I built this.
+
+A lightweight, browser-based dispatch tool that gives your flights structure without turning it into a grind.
 
 <p align="center">
   <a href="https://anonymous-guy777.github.io/outlaw-air-service-dispatch/">
@@ -15,17 +22,32 @@ A lightweight, browser-based dispatch tool for flight simulators — built aroun
 ---
 
 **Works on:**
-- MSFS 2020 / 2024 (PC & Xbox)
+- MSFS 2020 / 2024 (PC)
 - X-Plane (PC)
-- Any setup that can run a browser (iPad, tablet, phone, second screen)
+- Xbox & PS5 (via phone/tablet EFB)
+- Any device with a browser
 
 **No mods. No SimConnect. No plugins. No AI. No setup.**  
 Just open it → generate a contract → fly → log the result.
 
 ---
 
-## 📸 How it works
+## 🧠 The idea
 
+This runs alongside your sim like a basic EFB.
+
+You generate a contract, fly it in your sim, then log the result yourself.
+
+No automation. No tracking. No background scripts.
+
+It’s an **honor system** — which is the whole point.
+
+If you grease the landing and hit your timing, you earn it.  
+If you mess it up… you own it.
+
+---
+
+## 📸 How it works
 ### 👉 1. Generate a contract
 
 ![Main Screen](images/screen_01_main_v1.jpeg)

@@ -1,79 +1,173 @@
-![Outlaw Air Service Banner](./banner.png?v=1.3)
+![Outlaw Air Service Banner](banner.png)
 
-# ✈️ Outlaw Air Service — Dispatch Terminal (MSFS 2020 / 2024)
+# ✈️ Outlaw Air Service — Dispatch Terminal (MSFS 2020 / 2024 • X-Plane • Console & PC)
 
-Give Free Flight a purpose. 
+Give Free Flight a purpose.
 
 A lightweight, browser-based dispatch tool for flight simulators — built around quick contracts, pilot-driven results, and a simple career loop.
 
 <p align="center">
   <a href="https://anonymous-guy777.github.io/outlaw-air-service-dispatch/">
-    <img src="https://img.shields.io/badge/🚀_Live_Demo-Launch_App-blue?style=for-the-badge" alt="Launch App" />
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Launch_App-blue?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-**No mods. No SimConnect. No AI. No setup.** Just open it → generate a contract → fly → log the result.
+**Works on:**
+- MSFS 2020 / 2024 (PC & Xbox)
+- X-Plane (PC)
+- Any setup that can run a browser (iPad, tablet, phone, second screen)
+
+**No mods. No SimConnect. No plugins. No AI. No setup.**  
+Just open it → generate a contract → fly → log the result.
 
 ---
 
 ## 📸 How it works
 
 ### 👉 1. Generate a contract
-![Start New Contract](./IMG_1634.jpeg?v=1.3)
+
+![Main Screen](images/screen_01_main_v1.jpeg)
 
 Tap → **Start here → Generate your contract**
-- **Quick Contract**: Get moving immediately with a randomized assignment.
-- **Browse Jobs**: Select a specific route or mission type.
+
+- Quick Contract (fast, randomized)  
+- Browse Jobs / Pilot’s Choice (more control)  
+
+This is your entry point. Jump straight into a job or take control of your flight planning.
 
 ---
 
 ### 🧾 2. Get your mission
-![Dispatch Card](./IMG_1635.jpeg?v=1.3)
 
-Your **EFB Dispatch Card** provides critical mission data:
-- **EFB Timer Target**: Set this in your simulator before takeoff.
-- **Mission Details**: Route, distance, and aircraft requirements.
-- **Estimated Payout**: Projected earnings based on mission risk and cargo.
+![Dispatch Card](images/screen_02_dispatch_v1.jpeg)
+
+Your **EFB Dispatch Card** is your job sheet:
+
+- Route (departure → arrival)  
+- Aircraft (or use your own)  
+- Distance + mission type  
+- Estimated payout  
+- **EFB timer target** (set this in-sim before takeoff)
+
+This works like a real dispatch briefing—perfect for **console players without external tools** and **X-Plane users without plugins**.
 
 ---
 
 ### ⚠️ 3. Fly the mission (Honor System)
-![Mission Penalties and Ledger](./IMG_1636.jpeg?v=1.3)
 
-Fly the route in your simulator and apply results yourself. This is the "Pilot in Command" experience where you log:
-- **Penalties**: Late arrivals, hard landings, or aircraft damage.
-- **Bonuses**: Night operations, weather challenges, or "No GPS" pilotage.
+![Contract Screen](images/screen_03_contract_v1.jpeg)
+
+Fly the route in your simulator and apply results yourself.
+
+Examples:
+- Late arrival  
+- Hard landing  
+- Wrong runway  
+- Weather / night bonuses  
+
+This is intentional — you are the Pilot in Command.
+
+No tracking. No automation. No background scripts.  
+**Your flight = your results.**
 
 ---
 
-### 📊 4. Track your career
-![Flight Log](./IMG_1637.jpeg?v=1.3)
+### 💰 4. Complete the contract
 
-Review every assignment in your permanent **Flight Log**. Track your net earnings per flight, specific maintenance hits, and mission types to see how your airline is growing.
+![Contract Screen](images/screen_03_contract_v1.jpeg)
+
+After landing:
+
+- Tap **Complete Contract**  
+- Apply bonuses / penalties  
+- Confirm payout  
+- Stats update automatically  
+
+This is the core loop — **fly → log → get paid → progress**
 
 ---
 
-### 💾 5. Save & Restore
-![Save and Restore System](./IMG_1666.jpeg?v=1.3)
+### 📊 5. Track your career
 
-Your career data saves locally on your device. To ensure you never lose progress:
-- **Backup your career**: Tap **Backup Save**, then copy and paste the code somewhere safe (Notes, email, or a text file).
-- **Restore later**: Paste your saved code back into the box and tap **Restore Save**.
-- Use this when switching devices or clearing browser cache.
+![Dashboard](images/screen_04_dashboard_v1.jpeg)
+
+Everything is tracked:
+
+- Cash / Debt  
+- Rank / Tier  
+- Flight log  
+- Company stats  
+
+Also includes:
+- Loan system  
+- Backup / Restore save  
+
+This gives you a lightweight “career mode” without turning the sim into a management game.
+
+---
+
+### 💾 6. Backup / Restore your save
+
+![Save and Restore](images/screen_05_save_restore_v1.jpeg)
+
+Protect your progress and move your career between devices.
+
+- Export your current career save  
+- Restore a previous backup  
+- Transfer progress between browser, tablet, or PC  
+
+This ensures your career is never lost and stays portable across your setup.
+
+---
+
+## 🧭 What This Is
+
+Outlaw Air Service is a lightweight, **EFB-style dispatch tool for Free Flight** that adds structure without adding complexity.
+
+It’s designed especially for:
+- **Console pilots (Xbox)** who don’t have SimConnect access  
+- **X-Plane users** who don’t want plugin-heavy setups  
+- **PC users** who just want something fast and simple  
+
+No installs. No external connections. No overhead.
+
+---
+
+## 🚀 Features
+
+- 📦 Generate missions (random contracts)  
+- 🧭 Custom flights (Pilot’s Choice)  
+- 💰 Payout + cost tracking  
+- ⏱️ Built around in-sim EFB timing  
+- 📊 Career progression system  
+- 💾 Manual Backup / Restore  
+- 📱 Mobile + tablet optimized  
+- 🎮 Console-friendly (Xbox / controller users)  
+- 🖥️ Works alongside MSFS & X-Plane  
 
 ---
 
 ## 🧪 Status
+
 **v0.6.6 — Final Beta (Release Ready)**
 
 ---
 
 ## 💙 Support
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wacky_outlaw)
+
+https://ko-fi.com/wacky_outlaw
 
 ---
 
 ## ⚠️ Disclaimer
-Not affiliated with Microsoft Flight Simulator or Laminar Research.
+
+Not affiliated with Microsoft Flight Simulator, Asobo Studio, Laminar Research, or X-Plane.
+
+---
+
+## 📄 License
+
+This project is free to use and share.  
+You are welcome to use it for personal use, modify it, and distribute it within the community.

@@ -1,32 +1,118 @@
-# ✈️ Outlaw Air Service — Dispatch Terminal
+![Outlaw Air Service Banner](images/banner.png)
+
+# ✈️ Outlaw Air Service — Dispatch Terminal (MSFS 2020 / 2024)
 
 Give Free Flight a purpose.
 
-A lightweight, browser-based dispatch tool for **flight simulators** (MSFS 2024/2020, X-Plane) — with missions, logbook tracking, and pilot-driven progression.
+A lightweight, browser-based dispatch tool for flight simulators — built around quick contracts, pilot-driven results, and a simple career loop.
 
-👉 **Launch the Dispatch Terminal:**  
-https://anonymous-guy777.github.io/outlaw-air-service-dispatch/
+<p align="center">
+  <a href="https://anonymous-guy777.github.io/outlaw-air-service-dispatch/">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Launch_App-blue?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+**No mods. No SimConnect. No AI. No setup.**  
+Just open it → generate a contract → fly → log the result.
+
+---
+
+## 📸 How it works
+
+### 👉 1. Generate a contract
+
+![Main Screen](images/screen_01_main.png)
+
+Tap → **Start here → Generate your contract**
+
+- Quick Contract (fast, randomized)  
+- Browse Jobs / Pilot’s Choice (more control)  
+
+---
+
+### 🧾 2. Get your mission
+
+![Dispatch Card](images/screen_02_dispatch.png)
+
+Your **EFB Dispatch Card** is your job sheet:
+
+- Route (departure → arrival)  
+- Aircraft (or use your own)  
+- Distance + mission type  
+- Estimated payout  
+- **EFB timer target** (set this in-sim before takeoff)
+
+---
+
+### ⚠️ 3. Fly the mission (Honor System)
+
+![Contract Screen](images/screen_03_contract.png)
+
+Fly the route in your sim and apply results yourself.
+
+Examples:
+- Late arrival  
+- Hard landing  
+- Wrong runway  
+- Weather / night bonuses  
+
+This is intentional — you are the Pilot in Command.
+
+---
+
+### 💰 4. Complete the contract
+
+![Contract Screen](images/screen_03_contract.png)
+
+After landing:
+
+- Tap **Complete Contract**  
+- Apply bonuses / penalties  
+- Confirm payout  
+- Stats update automatically  
+
+This is the core loop — **fly → log → get paid → progress**
+
+---
+
+### 📊 5. Track your career
+
+![Dashboard](images/screen_04_dashboard.png)
+
+Everything is tracked:
+
+- Cash / Debt  
+- Rank / Tier  
+- Flight log  
+- Company stats  
+
+Also includes:
+- Loan system  
+- Backup / Restore save  
 
 ---
 
 ## 🧭 What This Is
 
-Outlaw Air Service is a lightweight, **EFB-style dispatch tool for Free Flight** that adds structure and progression.
+Outlaw Air Service is a lightweight, **EFB-style dispatch tool for Free Flight** that adds structure without turning it into a grind.
 
-No mods. No installs. No SimConnect. No AI.  
-Saves locally — you can back up your career anytime with a simple copy/paste.  
-Just open it on your phone or tablet and run it alongside your flight simulator.  
+No mods. No installs. No external connections.
+
+Run it on your phone or tablet alongside your simulator.
 
 ---
 
 ## 🚀 Features
 
 - 📦 Generate missions (random contracts)  
-- 🧭 Create custom flights (Pilot’s Choice)  
-- 💰 Track payouts, costs, and progression  
-- ⏱️ Built around the in-sim EFB timer  
-- 💾 Manual **Backup / Restore Save system**  
-- 📱 Mobile + tablet optimized (landscape preferred)  
+- 🧭 Custom flights (Pilot’s Choice)  
+- 💰 Payout + cost tracking  
+- ⏱️ Built around in-sim EFB timing  
+- 📊 Career progression system  
+- 💾 Manual Backup / Restore  
+- 📱 Mobile + tablet optimized  
 - 🎮 Console-friendly (PS5 / Xbox)
 
 ---
@@ -35,21 +121,11 @@ Just open it on your phone or tablet and run it alongside your flight simulator.
 
 Your career saves locally in your browser.
 
-You can back it up anytime using the built-in **Backup / Restore Save** feature:
+- Tap **Backup Save** → copy your save code  
+- Store it anywhere (Notes, email, text file)  
+- Paste it back → tap **Restore Save**
 
-- Tap **Backup Save** to generate your save code  
-- Copy it to Notes, email, or a text file  
-- Paste it back in and tap **Restore Save** to continue later  
-
-⚠️ Clearing browser data, switching devices, or updating browsers can erase local saves unless you back them up.
-
----
-
-## 📸 Screenshots
-
-![Start Contract](images/start-contract.png)
-![Bonuses & Penalties](images/ledger.png)
-![Flight Log](images/flight-log.png)
+⚠️ Clearing browser data or switching devices will erase saves unless backed up.
 
 ---
 
@@ -63,66 +139,50 @@ Works on PC, tablet, or alongside console flying.
 
 ---
 
-## 🧠 How It Works
+## 🧠 Design Philosophy
 
-This is an **honor-system dispatch tool**.
+Built around a **KISS approach (Keep It Simple & Straightforward)**
 
-Everything is manual — on purpose. You generate the flight, fly it, and log the results yourself.
+- No automation  
+- No background tracking  
+- No external dependencies  
 
-Run it strictly with full penalties and bonuses, or keep it casual as a mission generator and logbook.
+Everything is manual — on purpose.
 
-Your rules.
+You generate the flight.  
+You fly it.  
+You log the result.
 
 ---
 
 ## 🧭 Quick Start
 
-Think of this as your **EFB career overlay — not a mod.**
-
-![Quick Start Guide](images/quick-start.png)
-
-1. **Generate a Contract**  
-2. **Review Dispatch** (route, distance, payout)  
-3. **Select Aircraft**  
-4. **Set EFB Timer in-sim**  
-5. **Fly the Mission**  
-6. **Apply Results (honestly)**  
-7. **Complete Contract**
+1. Generate a Contract  
+2. Review Dispatch  
+3. Select Aircraft  
+4. Set EFB Timer  
+5. Fly  
+6. Apply Results  
+7. Complete Contract  
 
 ---
 
 ## 📱 Tip (iPad / Mobile)
 
-Use **landscape mode** for the best experience.
+Use **landscape mode** for best experience.
 
-You can also install it like an app:
-
-- **iPad / iPhone (Safari):** Share → Add to Home Screen  
-- **Android (Chrome):** Menu → Add to Home Screen  
-
----
-
-## ✈️ Philosophy
-
-**Everything is manual — on purpose.**
-
-There’s no auto-pass system.
-
-You are the one logging the flight:
-- Bad landing? That’s on you  
-- Weather bonus? You decide  
-- Mission failed? You record it  
-
-You are the **Pilot in Command**.
+Install like an app:
+- Safari → Add to Home Screen  
+- Chrome → Add to Home Screen  
 
 ---
 
 ## 📲 Why This Exists
 
-Free Flight is great — but it can feel directionless after a while.
+Free Flight is great — but it can feel directionless.
 
-This tool adds just enough structure to make each flight matter  
-without turning it into a grind.
+This adds just enough structure to make each flight matter  
+without turning it into a full career grind.
 
 ---
 
@@ -131,40 +191,32 @@ without turning it into a grind.
 - Single-file HTML app  
 - No dependencies  
 - Works offline  
-- Hosted via GitHub Pages  
+- Hosted on GitHub Pages  
 
 ---
 
 ## 🧪 Status
 
-**v0.6.6 — Final Beta (Release Ready)**  
-
-Core system is stable.  
-Recent updates include improved save reliability and restore support.
+**v0.6.6 — Final Beta (Release Ready)**
 
 ---
 
-## 🔮 Roadmap (v0.7+)
+## 🔧 Next Update (v0.6.7)
 
-- SimBrief launch support (external)  
-- Expanded airport dataset  
-- Optional economy tuning  
-- More contract variety  
+- Full aircraft database  
+- Airport database + custom ICAO  
+- Improved “Complete Flight” flow  
+- Expanded mission depth  
+- Separate aircraft / airport files  
 
 ---
 
 ## 💙 Support
 
-If you enjoy using this tool and want to support future updates:
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wacky_outlaw)
-
-Or visit: https://ko-fi.com/wacky_outlaw
 
 ---
 
 ## ⚠️ Disclaimer
 
 Not affiliated with Microsoft Flight Simulator or Laminar Research.
-
-This is a personal project built for the community.

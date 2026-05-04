@@ -56,7 +56,7 @@ Review every assignment in your permanent **Flight Log**. Track your net earning
 ---
 
 ### 💾 5. Save & Restore
-![Save and Restore System](./IMG_1638.jpeg?v=1.3)
+![Save and Restore System](./IMG_1666.jpeg?v=1.3)
 
 Your career data saves locally on your device. To ensure you never lose progress:
 - **Backup your career**: Tap **Backup Save**, then copy and paste the code somewhere safe (Notes, email, or a text file).

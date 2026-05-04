@@ -1,4 +1,4 @@
-![Outlaw Air Service Banner](./banner.png)
+![Outlaw Air Service Banner](./BCA068D3-5E81-4B...png?v=1.3)
 
 # ✈️ Outlaw Air Service — Dispatch Terminal (MSFS 2020 / 2024)
 
@@ -21,7 +21,7 @@ A lightweight, browser-based dispatch tool for flight simulators — built aroun
 ## 📸 How it works
 
 ### 👉 1. Generate a contract
-![Start New Contract](./screen_01.png?v=1.2)
+![Start New Contract](./IMG_1634.jpeg?v=1.3)
 
 Tap → **Start here → Generate your contract**
 - **Quick Contract**: Get moving immediately with a randomized assignment.
@@ -30,7 +30,7 @@ Tap → **Start here → Generate your contract**
 ---
 
 ### 🧾 2. Get your mission
-![Dispatch Card](./screen_02.png?v=1.2)
+![Dispatch Card](./IMG_1635.jpeg?v=1.3)
 
 Your **EFB Dispatch Card** provides critical mission data:
 - **EFB Timer Target**: Set this in your simulator before takeoff.
@@ -40,28 +40,18 @@ Your **EFB Dispatch Card** provides critical mission data:
 ---
 
 ### ⚠️ 3. Fly the mission (Honor System)
-![Mission Penalties and Ledger](./screen_03.png?v=1.2)
+![Mission Penalties and Ledger](./IMG_1636.jpeg?v=1.3)
 
-Fly the route in your simulator and apply the results yourself. This is the "Pilot in Command" experience where you log:
+Fly the route in your simulator and apply results yourself. This is the "Pilot in Command" experience where you log:
 - **Penalties**: Late arrivals, hard landings, or aircraft damage.
 - **Bonuses**: Night operations, weather challenges, or "No GPS" pilotage.
 
 ---
 
 ### 📊 4. Track your career
-![Flight Log](./screen_04.png?v=1.2)
+![Flight Log](./IMG_1637.jpeg?v=1.3)
 
 Review every assignment in your permanent **Flight Log**. Track your net earnings per flight, specific maintenance hits, and mission types to see how your airline is growing.
-
----
-
-### 💾 5. Save Management
-![Company Ledger and Backup](./screen_05.png?v=1.2)
-
-Everything is tracked in your **Company Ledger**:
-- Monitor Cash, Rep, Rank, and Tier.
-- Manage loans and debt payments.
-- **Backup / Restore**: Use the manual backup system to save your career code to a text file for safekeeping.
 
 ---
 

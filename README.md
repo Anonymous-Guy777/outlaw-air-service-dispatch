@@ -4,14 +4,14 @@
 
 **Free Flight is great… until it isn’t.**
 
-At some point it just turns into:
-spawn → fly → land → repeat
+At some point it just turns into:  
+spawn → fly → land → repeat  
 
 No purpose. No pressure. No reason to care.
 
 **So I built this.**
 
-A **FREE**, lightweight browser-based dispatch tool that gives your flights structure — without turning it into a grind.
+A **FREE**, lightweight, browser-based dispatch tool that gives your flights real structure — without turning it into a grind.
 
 <p align="center">
   <a href="https://anonymous-guy777.github.io/outlaw-air-service-dispatch/">
@@ -23,6 +23,9 @@ A **FREE**, lightweight browser-based dispatch tool that gives your flights stru
   </a>
 </p>
 
+👉 **Launch the Dispatch Terminal now and start your first contract:**  
+https://anonymous-guy777.github.io/outlaw-air-service-dispatch/
+
 ---
 
 **Works on:**
@@ -32,7 +35,7 @@ A **FREE**, lightweight browser-based dispatch tool that gives your flights stru
 - Any device with a browser
 
 **No mods. No SimConnect. No plugins. No AI. No setup.**  
-Just open it → generate a contract → fly → log the result.
+Just open → generate a contract → fly → log the result.
 
 ---
 
@@ -54,6 +57,7 @@ If you slam it in or miss your marks… you own it.
 ---
 
 ## 📸 How it works
+
 ### 👉 1. Generate a contract
 
 ![Main Screen](images/screen_01_main_v1.jpeg)
@@ -79,7 +83,7 @@ Your **EFB Dispatch Card** is your job sheet:
 - Estimated payout  
 - **EFB timer target** (set this in-sim using your EFB timer before takeoff)
 
-This works like a real dispatch briefing—perfect for **console players without external tools** and **X-Plane users without plugins**.
+This works like a real dispatch briefing—perfect for console pilots and X-Plane users without plugins.
 
 ---
 
@@ -150,36 +154,30 @@ Also includes:
 
 ---
 
-## 🧭 What This Is
-
-Outlaw Air Service is a lightweight, **EFB-style dispatch tool for Free Flight** that adds structure without adding complexity.
-
-It’s designed especially for:
-- **Console pilots (PS5 & Xbox)** who don’t have SimConnect access  
-- **X-Plane users** who don’t want plugin-heavy setups  
-- **PC users** who just want something fast and simple  
-
-No installs. No external connections. No overhead.
-
----
-
 ## 🚀 Features
 
-- 📦 Generate missions (random contracts)  
-- 🧭 Custom flights (Pilot’s Choice)  
-- 💰 Payout + cost tracking  
-- ⏱️ Built around in-sim EFB timing  
-- 📊 Career progression system  
-- 💾 Manual Backup / Restore  
-- 📱 Mobile + tablet optimized  
-- 🎮 Console-friendly (PS5 & Xbox / controller users)  
-- 🖥️ Works alongside MSFS & X-Plane  
+- Generate missions (random contracts)  
+- Custom flights (Pilot’s Choice)  
+- Payout + cost tracking  
+- Built around in-sim EFB timing  
+- Career progression system  
+- Manual Backup / Restore  
+- Mobile + tablet optimized  
+- Console-friendly (PS5 & Xbox / controller users)  
+- Works alongside MSFS & X-Plane  
 
 ---
 
 ## 🧪 Status
 
 **v0.6.6 — Final Beta (Release Ready)**
+
+---
+
+## 💬 Feedback
+
+Found a bug or have an idea?  
+Open an issue on GitHub or drop feedback where this was shared.
 
 ---
 
@@ -198,4 +196,8 @@ Not affiliated with Microsoft Flight Simulator, Asobo Studio, Laminar Research, 
 ## 📄 License
 
 This project is free to use and share.  
-You are welcome to use it for personal use, modify it, and distribute it within the community.
+You are welcome to use it for personal use, modify it, and distribute it within the flight sim community.
+
+---
+
+**Built for pilots who just want to fly with purpose.**

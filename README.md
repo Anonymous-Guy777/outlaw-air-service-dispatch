@@ -34,16 +34,18 @@ Just open it → generate a contract → fly → log the result.
 
 ## 🧠 The idea
 
-This runs alongside your sim like a basic EFB.
+This runs alongside your sim as a simple browser-based EFB.
 
-You generate a contract, fly it in your sim, then log the result yourself.
+Generate a contract. Fly it. Log the result.
 
 No automation. No tracking. No background scripts.
 
-It’s an **honor system** — which is the whole point.
+It’s an honor system — that’s the whole point.
 
-If you grease the landing and hit your timing, you earn it.  
-If you mess it up… you own it.
+Fly it smooth. Hit your marks. Keep it clean.
+
+If you butter the landing and hit your timing, you earn it.  
+If you slam it in or miss your marks… you own it.
 
 ---
 

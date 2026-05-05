@@ -81,7 +81,7 @@ Your **EFB Dispatch Card** includes:
 - Recommended aircraft  
 - Distance & mission type  
 - Estimated payout  
-- **EFB timer target** ( (set in-sim on the MSFS EFB before takeoff)
+- **EFB timer target** (set in-sim on the MSFS EFB before takeoff)
 
 Perfect for console pilots and X-Plane users without plugins.
 

@@ -23,7 +23,7 @@ A **FREE**, lightweight, browser-based dispatch tool that gives your flights rea
   </a>
 </p>
 
-👉 **Launch the Dispatch Terminal now and start your first contract:**  
+👉 **Launch the Dispatch Terminal and start your first contract:**  
 https://anonymous-guy777.github.io/outlaw-air-service-dispatch/
 
 ---
@@ -34,7 +34,7 @@ https://anonymous-guy777.github.io/outlaw-air-service-dispatch/
 - PS5 & Xbox (via phone/tablet EFB)
 - Any device with a browser
 
-**No mods. No SimConnect. No plugins. No AI. No setup.**  
+**No mods. No SimConnect. No plugins. No AI.**  
 Just open → generate a contract → fly → log the result.
 
 ---
@@ -45,7 +45,7 @@ This runs alongside your sim as a simple browser-based EFB.
 
 **Generate a contract. Fly it. Log the result.**
 
-No automation. No tracking. No AI. No background scripts.
+No automation. No tracking. No background scripts.
 
 It’s an honor system — that’s the whole point.
 
@@ -53,6 +53,8 @@ Fly it smooth. Hit your marks. Keep it clean.
 
 If you butter the landing and hit your timing, you earn it.  
 If you slam it in or miss your marks… you own it.
+
+**You are Pilot in Command.**
 
 ---
 
@@ -67,23 +69,21 @@ Tap → **Start here → Generate your contract**
 - Quick Contract (fast, randomized)  
 - Browse Jobs / Pilot’s Choice (more control)  
 
-This is your entry point. Jump straight into a job or take control of your flight planning.
-
 ---
 
 ### 🧾 2. Get your mission
 
 ![Dispatch Card](images/screen_02_dispatch_v1.jpeg)
 
-Your **EFB Dispatch Card** is your job sheet:
+Your **EFB Dispatch Card** includes:
 
 - Route (departure → arrival)  
-- Aircraft (or use your own)  
-- Distance + mission type  
+- Recommended aircraft  
+- Distance & mission type  
 - Estimated payout  
-- **EFB timer target** (set this in-sim using your EFB timer before takeoff)
+- **EFB timer target** (set in-sim before takeoff)
 
-This works like a real dispatch briefing—perfect for console pilots and X-Plane users without plugins.
+Perfect for console pilots and X-Plane users without plugins.
 
 ---
 
@@ -91,18 +91,13 @@ This works like a real dispatch briefing—perfect for console pilots and X-Plan
 
 ![Contract Screen](images/screen_03_contract_v1.jpeg)
 
-Fly the route in your simulator and apply results yourself.
+No automation. No tracking.
 
-Examples:
-- Late arrival  
-- Hard landing  
-- Wrong runway  
+You decide the outcome:
+- On-time arrival  
+- Landing quality  
+- Runway used  
 - Weather / night bonuses  
-
-This is intentional — you are the Pilot in Command.
-
-**No tracking. No automation. No AI. No background scripts.**  
-**Your flight = your results.**
 
 ---
 
@@ -112,12 +107,9 @@ This is intentional — you are the Pilot in Command.
 
 After landing:
 
-- Tap **Complete Contract**  
-- Apply bonuses / penalties  
+- Apply bonuses & penalties  
 - Confirm payout  
 - Stats update automatically  
-
-This is the core loop — **fly → log → get paid → progress**
 
 ---
 
@@ -125,18 +117,14 @@ This is the core loop — **fly → log → get paid → progress**
 
 ![Dashboard](images/screen_04_dashboard_v1.jpeg)
 
-Everything is tracked:
+Track:
 
-- Cash / Debt  
-- Rank / Tier  
+- Cash & Debt  
+- Rank / Tier progression  
 - Flight log  
 - Company stats  
 
-Also includes:
-- Loan system  
-- Backup / Restore save  
-
-**This gives you a lightweight “career mode” without turning the sim into a management game.**
+Includes a simple loan system for that outlaw feel.
 
 ---
 
@@ -144,27 +132,27 @@ Also includes:
 
 ![Save and Restore](images/screen_05_save_restore_v1.jpeg)
 
-**Protect your progress and move your career between devices.**
+Export / import your entire career anytime.
 
-- Export your current career save  
-- Restore a previous backup  
-- Transfer progress between browser, tablet, or PC  
+- Backup progress  
+- Restore previous saves  
+- Move between devices  
 
-**This ensures your career is never lost and stays portable across your setup.**
+**Always back up your save before major updates.**
 
 ---
 
 ## 🚀 Features
 
-- Generate missions (random contracts)  
-- Custom flights (Pilot’s Choice)  
-- Payout + cost tracking  
-- Built around in-sim EFB timing  
-- Career progression system  
-- Manual Backup / Restore  
+- Random + custom contract generation  
+- Payout & cost tracking  
+- In-sim EFB timer integration  
+- Career progression & ranks  
+- Loan system  
+- Full backup / restore  
 - Mobile + tablet optimized  
-- Console-friendly (PS5 & Xbox / controller users)  
-- Works alongside MSFS & X-Plane  
+- Console-friendly design  
+- Works with MSFS 2020/2024 and X-Plane  
 
 ---
 
@@ -177,7 +165,7 @@ Also includes:
 ## 💬 Feedback
 
 Found a bug or have an idea?  
-Open an issue on GitHub or drop feedback where this was shared.
+Open an issue on GitHub or drop feedback where you found the project.
 
 ---
 
@@ -195,8 +183,7 @@ Not affiliated with Microsoft Flight Simulator, Asobo Studio, Laminar Research, 
 
 ## 📄 License
 
-This project is free to use and share.  
-You are welcome to use it for personal use, modify it, and distribute it within the flight sim community.
+Free to use and share for personal use within the flight sim community.
 
 ---
 

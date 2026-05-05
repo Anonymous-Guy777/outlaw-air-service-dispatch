@@ -89,8 +89,6 @@ Perfect for console pilots and X-Plane users without plugins.
 
 ### ⚠️ 3. Fly the mission (Honor System)
 
-![Contract Screen](images/screen_03_contract_v1.jpeg)
-
 No automation. No tracking.
 
 You decide the outcome:

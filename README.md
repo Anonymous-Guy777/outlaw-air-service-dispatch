@@ -11,7 +11,7 @@ No purpose. No pressure. No reason to care.
 
 **So I built this.**
 
-A lightweight, browser-based dispatch tool that gives your flights structure — without turning it into a grind.
+A **FREE**, lightweight browser-based dispatch tool that gives your flights structure — without turning it into a grind.
 
 <p align="center">
   <a href="https://anonymous-guy777.github.io/outlaw-air-service-dispatch/">

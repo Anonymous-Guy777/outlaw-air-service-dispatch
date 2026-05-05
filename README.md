@@ -2,16 +2,16 @@
 
 # ✈️ Outlaw Air Service — Dispatch Terminal (MSFS 2020 / 2024 • X-Plane • Console & PC)
 
-Free Flight is great… until it isn’t.
+**Free Flight is great… until it isn’t.**
 
 At some point it just turns into:
 spawn → fly → land → repeat
 
 No purpose. No pressure. No reason to care.
 
-So I built this.
+**So I built this.**
 
-A lightweight, browser-based dispatch tool that gives your flights structure without turning it into a grind.
+A lightweight, browser-based dispatch tool that gives your flights structure — without turning it into a grind.
 
 <p align="center">
   <a href="https://anonymous-guy777.github.io/outlaw-air-service-dispatch/">
@@ -24,7 +24,7 @@ A lightweight, browser-based dispatch tool that gives your flights structure wit
 **Works on:**
 - MSFS 2020 / 2024 (PC)
 - X-Plane (PC)
-- Xbox & PS5 (via phone/tablet EFB)
+- PS5 & Xbox (via phone/tablet EFB)
 - Any device with a browser
 
 **No mods. No SimConnect. No plugins. No AI. No setup.**  
@@ -36,9 +36,9 @@ Just open it → generate a contract → fly → log the result.
 
 This runs alongside your sim as a simple browser-based EFB.
 
-Generate a contract. Fly it. Log the result.
+**Generate a contract. Fly it. Log the result.**
 
-No automation. No tracking. No background scripts.
+No automation. No tracking. No AI. No background scripts.
 
 It’s an honor system — that’s the whole point.
 
@@ -73,7 +73,7 @@ Your **EFB Dispatch Card** is your job sheet:
 - Aircraft (or use your own)  
 - Distance + mission type  
 - Estimated payout  
-- **EFB timer target** (set this in-sim before takeoff)
+- **EFB timer target** (set this in-sim using your EFB timer before takeoff)
 
 This works like a real dispatch briefing—perfect for **console players without external tools** and **X-Plane users without plugins**.
 
@@ -93,7 +93,7 @@ Examples:
 
 This is intentional — you are the Pilot in Command.
 
-No tracking. No automation. No background scripts.  
+**No tracking. No automation. No AI. No background scripts.**  
 **Your flight = your results.**
 
 ---
@@ -128,7 +128,7 @@ Also includes:
 - Loan system  
 - Backup / Restore save  
 
-This gives you a lightweight “career mode” without turning the sim into a management game.
+**This gives you a lightweight “career mode” without turning the sim into a management game.**
 
 ---
 
@@ -136,13 +136,13 @@ This gives you a lightweight “career mode” without turning the sim into a ma
 
 ![Save and Restore](images/screen_05_save_restore_v1.jpeg)
 
-Protect your progress and move your career between devices.
+**Protect your progress and move your career between devices.**
 
 - Export your current career save  
 - Restore a previous backup  
 - Transfer progress between browser, tablet, or PC  
 
-This ensures your career is never lost and stays portable across your setup.
+**This ensures your career is never lost and stays portable across your setup.**
 
 ---
 
@@ -151,7 +151,7 @@ This ensures your career is never lost and stays portable across your setup.
 Outlaw Air Service is a lightweight, **EFB-style dispatch tool for Free Flight** that adds structure without adding complexity.
 
 It’s designed especially for:
-- **Console pilots (Xbox)** who don’t have SimConnect access  
+- **Console pilots (PS5 & Xbox)** who don’t have SimConnect access  
 - **X-Plane users** who don’t want plugin-heavy setups  
 - **PC users** who just want something fast and simple  
 
@@ -168,7 +168,7 @@ No installs. No external connections. No overhead.
 - 📊 Career progression system  
 - 💾 Manual Backup / Restore  
 - 📱 Mobile + tablet optimized  
-- 🎮 Console-friendly (Xbox / controller users)  
+- 🎮 Console-friendly (PS5 & Xbox / controller users)  
 - 🖥️ Works alongside MSFS & X-Plane  
 
 ---

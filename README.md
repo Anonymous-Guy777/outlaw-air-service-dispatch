@@ -38,7 +38,7 @@ https://github.com/Anonymous-Guy777/outlaw-air-service-experimental
 
 This is the live sandbox/testing version of OAS, where I experiment with new ideas, aircraft systems, UI changes, and gameplay features before pushing them into the stable build.
 
-⚠️ Expect occasional bugs, broken features, unfinished layouts, or balance changes during development.
+⚠️ Expect occasional bugs, unfinished features, layout changes, or gameplay balancing updates during development.
 
 Feedback, improvement ideas, bug reports, and feature suggestions are always appreciated — especially from pilots using different aircraft, sim setups, and play styles.
 

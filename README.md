@@ -26,6 +26,17 @@ A **FREE**, lightweight, browser-based dispatch tool that gives your flights rea
 👉 **Launch the Dispatch Terminal and start your first contract:**  
 https://anonymous-guy777.github.io/outlaw-air-service-dispatch/
 
+## 🧪 Experimental Build (Sandbox)
+
+Want to try upcoming Outlaw Air Service (OAS) features and test changes before they reach the main release?
+
+👉 Experimental Build:
+https://anonymous-guy777.github.io/outlaw-air-service-experimental/
+
+⚠️ Note: This is the sandbox/testing version of OAS. Features, layouts, aircraft lists, or functions may change or temporarily break during development.
+
+Feedback, improvement ideas, bug reports, and feature suggestions are always appreciated — especially from pilots using different aircraft, sim setups, and play styles.
+
 ---
 
 **Works on:**
